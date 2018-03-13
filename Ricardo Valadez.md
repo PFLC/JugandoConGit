@@ -8,4 +8,4 @@
 
 ## 8. Bit Connect
 
-[![](https://i.ytimg.com/an_webp/EY8rq1AyCPY/mqdefault_6s.webp?du=3000&sqp=COqzsdQF&rs=AOn4CLCoGBn3Y9S_uc03ar44yDm8v0f8IA)](https://www.youtube.com/watch?v=EY8rq1AyCPY)
+[![](https://www.youtube.com/watch?v=EY8rq1AyCPY)](https://www.youtube.com/watch?v=EY8rq1AyCPY)
